@@ -10,4 +10,5 @@ $str="Hello Dog";
 printf($str );
 sprintf($str);
 echo "<br>$str";
+
 ?>

@@ -5,7 +5,7 @@
  * Date: 10.06.2017
  * Time: 19:54
  */
-$day=mt_rand(1, 31);
+$day=mt_rand(1, 7);
 switch($day){
     case 1:
         case 2:
